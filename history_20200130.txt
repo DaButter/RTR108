@@ -1,0 +1,87 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/DaButter/RTR105
+    4  ls
+    5  git clone https://github.com/DaButter/RTR108
+    6  ls
+    7  cd RTR108/
+    8  mkdir kkas
+    9  ls
+   10  cd kkas/
+   11  cd ..
+   12  ls
+   13  git clone https://github.com/DaButter/RTR108
+   14  ls
+   15  rm -r RTR108/
+   16  git clone https://github.com/DaButter/RTR108
+   17  ls
+   18  cd RTR108/
+   19  ls
+   20  cat README.md 
+   21  nano git-upload
+   22  cat git-upload 
+   23  chmod 744 git-upload 
+   24  ls
+   25  cat git-upload 
+   26  ls -l
+   27  ls
+   28  nano README.md 
+   29  ls
+   30  ./git-upload 
+   31  ./git-upload 20200130_12-57
+   32  ls
+   33  python
+   34  ipython
+   35  ls
+   36  python2
+   37  sl
+   38  ls
+   39  sl
+   40  apt install sl
+   41  ls
+   42  nano python_test.py
+   43  python python_test.py
+   44  ls
+   45  nano python_test.py
+   46  python python_test.py
+   47  flash
+   48  clash
+   49  klash
+   50  sudo apt install cmatrix
+   51  python --version
+   52  cp python_test.py python_test_auto_exe.py 
+   53  nano python_test_auto_exe.py 
+   54  ls -l /
+   55  ls -l /usr/bin/python
+   56  ls
+   57  chmod 744 python_test_auto_exe.py 
+   58  ls
+   59  mv python_test_auto_exe.py python_test_auto_exe
+   60  ls
+   61  cat python_test_auto_exe 
+   62  ./python_test_auto_exe 
+   63  ls
+   64  idle &
+   65  ls
+   66  cat diary_20200130.py 
+   67  ls
+   68  ls -la
+   69  ls
+   70  ls -la
+   71  ls
+   72  ls -la
+   73  cd .
+   74  cd ..
+   75  ls
+   76  pwd
+   77  cd RTR108/
+   78  ls
+   79  ls -la
+   80  ls -l
+   81  ls
+   82  ls -l
+   83  python -m https.sever 8000
+   84  python -m http.sever 8000
+   85  python -m http.server 8000
+   86  history
+   87  history > history_20200130.txt
