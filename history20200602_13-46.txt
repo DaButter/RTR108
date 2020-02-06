@@ -1,0 +1,45 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/DaButter/RTR108
+    4  ls
+    5  cd RTR108/
+    6  ls
+    7  python -m http.server 8000 &
+    8  ps aux
+    9  ps -aux | grep 8000
+   10  kill 3227
+   11  kill 2732
+   12  ls
+   13  nano index.html
+   14  ls -l
+   15  ls -lt
+   16  python -m http.server 8000 &
+   17  ps -aux | grep 8000
+   18  kill 2901
+   19  ls
+   20  nano index.html 
+   21  python -m http.server 8000 &
+   22  ps -aux | grep 8000
+   23  kill 2916
+   24  if config; if config; kill
+   25  ls
+   26  cd in
+   27  nano index.html 
+   28  if config; aksdasd
+   29  ls
+   30  cd ..
+   31  ls
+   32  ps -aux | grep 8000
+   33  kill 82840
+   34  kill 123280
+   35  ps -aux | grep 8000
+   36  ls
+   37  nani index.html 
+   38  nano index.html 
+   39  y
+   40* 
+   41  y
+   42  nano index.html 
+   43  idle &
+   44  history
+   45  history > history20200602_13-46.txt
