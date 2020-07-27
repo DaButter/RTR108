@@ -1,0 +1,237 @@
+Labrīt!
+
+Tālāk rakstīto lasiet tad, kad to atļauj mentālie resursi. Nepārslogojiet
+tos. Ja resursi ir ierobežoti, sākumā tieciet galā ETP un tad turpiniet ar
+Datormācību. Tāpat, ka iepriekš, ir viennozīmīgi skaidrs, ka
+Datormācībā nesekmīgo nebūs.
+
+Turpinājumā sekos nodarbību uzdevumi (daudz kas tika paveikts pirms ĀS;
+jāsakārto un jāiesniedz Sakai sistēmā). Tā, kā parasti, sākumā visur
+salikšu sākuma 0, lai Jūs redzētu, kā palielinās gala vērtējums. Ja
+redzēsiet, ka jau ir, piemēram 43 %, varat rakstīt man vēstuli, ka Jūs tas
+4, vai 5 utt. balles apmierina un ka es to varu rakstīt ORTUS’ā atzīmju
+lapā.
+
+Kāpēc ar šiem uzdevumiem vajadzētu “pacīnīties”? Tāpēc ka IT
+industrija ir iespēju okeāns. Kursa mērķis ir iepazīstināt Jūs ar
+dažiem rīkiem un uzdrošināt jauno tehnoloģiju, valodu, rīku utt.
+meklēšanai, izmēģināšanai un pārzināšanai.
+
+Darbu nodošanas termiņš – 2. augusts. No 25.06. līdz 02.08. regulāri
+divas reizes nedēļā notiks tiešsaistes konsultācijas.
+
+1. nodarbība
+Piereģistrēties github.com.
+Izveidot RTR108 repozitoriju Datormācība (speckurss) studiju kursa darbu
+glabāšanai un kodu versiju kontrolei.
+Repozitorija saknes direktorijā izveidot README.md failu.
+Izveidoto README.md failu papildināt ar 1. nodarbības aprakstu un
+piedāvātājiem paņēmieniem, aprakstu sakārtot (formatēšanas paņēmieni
+-
+https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+
+2.-4. nodarbība
+Uzinstalēt Python, Ipython un IDLE.
+Izmēģināt piemērus no sadaļas Lessons from PY4E, tēmas:
+▶Variables, expressions and statements
+▶Conditional Execution
+▶Functions
+▶Loops and Iterations
+▶Strings
+▶Files
+Izmēģinājumu rezultātus - skriptus, dienasgrāmatas ar izstrādes vides
+komandrindā izmēģinātām metodēm saglābāt failos:
+▶skriptu failu nosaukumu šablons -
+python_tēmasAtslēgasVārds_izmēģinājumaNumurs_izmēģinājumaDatums.py,
+faila nosaukuma piemērs - python_for_01_20200315.py
+▶dienasgrāmatu failu nosaukumu šablons -
+python_tēmasAtslēgasVārds_diary_dienasgrāmatasNumurs_izmēģinājumuDatums.py,
+faila nosaukuma piemērs - python_for_diary_01_20200315.py
+Studiju kursa repozitorija saknes direktorijā izveidot P02_P04_basics
+direktoriju.
+Izveidotājā P02_P04_basics direktorijā augšupielādēt 2. nodarbības, 3.
+nodarbības un 4. nodarbības izmēģinājumu skriptu failus un dienasgrāmatu
+failus.
+Repozitorija saknes direktorijas README.md failu papildināt ar 2. nodarbības,
+3. nodarbības un 4. nodarbības aplūkoto tēmu izmēģinātu piemēru īsu un
+kodolīgu aprakstu, aprakstu strukturēt.
+
+5. nodarbība
+Uzinstalēt Anaconda vai pieslēgties
+https://colab.research.google.com/notebooks/intro.ipynb servisam.
+Izveidot Jupyter pierakstu failu (faila nosaukums python_Taylor_series.ipynb)
+ar sekojošā uzdevuma risinājumu:
+atbilstoši savas funkcijas Teilora rindai ipynb failā attēlot un obligāti
+īsi un kodolīgi komentēt
+▶summas izteiksmi ar ASCII simbolu palīdzību (ASCII zīmēšana)
+▶funkcijas definīcijas apgabala vērtības teksta komentāra veidā
+▶rekurences funkcionālā reizinātāja izteiksmi ar ASCII simbolu
+palīdzību (ASCII zīmēšana)
+▶dialogu ar lietotāju x vērtības iegūšanai
+▶aprēķinātās summas iepriekšpēdējā locekļa vērtību
+▶aprēķinātās summas pēdējā locekļa (parasti 500-tā vai 1000-šā)
+vērtību
+▶funkcijas vērtību f(x), aprēķins izmantojot Teilora rindas izteiksmi
+▶funkcijas vērtību f(x), aprēķins izmantojot funkcijas izteiksmi
+▶funkcijas f(x) grafiku, zīmēšana izmantojot Teilora rindas izteiksmi
+▶funkcijas f(x) grafiku, zīmēšana izmantojot funkcijas izteiksmi
+Studiju kursa repozitorija saknes direktorijā izveidot P05_ipynb direktoriju.
+Izveidotājā P05_ipynb direktorijā augšupielādēt 5. nodarbības Jupyter
+pierakstu failu ar uzdevuma atrisinājumu.
+Repozitorija saknes direktorijas README.md failu papildināt ar 5. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+6. nodarbība
+Izmēģināt piemērus no sadaļas Lessons from PY4E, tēmas:
+▶Object-Oriented Programming
+Izmēģinājumu rezultātus - skriptus, dienasgrāmatas ar izstrādes vides
+komandrindā izmēģinātām metodēm saglābāt failos:
+▶skriptu failu nosaukumu šablons -
+python_tēmasAtslēgasVārds_izmēģinājumaNumurs_izmēģinājumaDatums.py,
+faila nosaukuma piemērs - python_OOP_01_20200315.py
+▶dienasgrāmatu failu nosaukumu šablons -
+python_tēmasAtslēgasVārds_diary_dienasgrāmatasNumurs_izmēģinājumuDatums.py,
+faila nosaukuma piemērs - python_OOP_diary_01_20200315.py
+Studiju kursa repozitorija saknes direktorijā izveidot P06_OOP direktoriju.
+Izveidotājā P06_OOP direktorijā augšupielādēt 6. nodarbības
+izmēģinājumu skriptu failus un dienasgrāmatu failus.
+Repozitorija saknes direktorijas README.md failu papildināt ar 6. nodarbības
+aplūkoto tēmu izmēģinātu piemēru īsu un kodolīgu aprakstu, aprakstu
+strukturēt.
+
+7. nodarbība
+Izmēģināt vienu no GUI veidošanas piemēriem:
+▶https://realpython.com/python-pyqt-gui-calculator/
+▶https://www.learnpyqt.com/examples/moonsweeper/
+▶vai citu līdzvērtīgu piemēru
+Studiju kursa repozitorija saknes direktorijā izveidot P07_GUI direktoriju.
+Repozitorija P07_GUI direktorijā izveidot README.md failu.
+Izveidoto README.md failu papildināt ar 7. nodarbībā izmantota piemēra kodu
+fragmentiem pirms izmaiņām un pēc Jūsu veiktajām izmaiņām, kā arī ar
+atbilstošām GUI bildēm - pirms izmaiņām un pēc izmaiņām.
+Repozitorija saknes direktorijas README.md failu papildināt ar 7. nodarbības
+aprakstu un izmēģinātu paņēmienu uzskaitījumu un īsu un kodolīgu
+aprakstu, aprakstu sakārtot.
+
+9. nodarbība
+Ar gschem izveidot sprieguma dalītāja shēmu (V1=N1 Volti, R1=N2 Omi, R2=N3
+Omi; N1 - Jūsu studenta apliecības numura pēdējo trīs ciparu skaitlis
+dalīts ar 10, N2 - Jūsu studenta apliecības numura priekšpēdējā cipara
+skaitlis + 1, N3 - Jūsu studenta apliecības numura pēdējā cipara skaitlis
++ 1).
+Ar gnetlist iegūt sprieguma dalītāja shēmas savienojumu sarakstu.
+Ar ngspice iegūt sprieguma dalītāja shēmas simulācijas rezultātus.
+Rezultātus - shēmu, shēmas bildi, savienojumu sarakstu, simulācijas
+rezultātus saglābāt failos:
+▶shēmas faila nosaukums - voltage_divider.sch
+▶shēmas bildes faila nosaukums - voltage_divider.ps (ps failu iegūt,
+izmantojot gschem rīkus)
+▶savienojumu saraksta faila nosaukums - voltage_divider.net
+▶simulācijas rezultātu failu nosaukumi - voltage_divider_Vnode1.ps,
+voltage_divider_Vnode2.ps (ps failus iegūt, izmantojot ngspice rīkus)
+Studiju kursa repozitorija saknes direktorijā izveidot P09_SPICE direktoriju.
+Izveidotājā P09_SPICE direktorijā augšupielādēt 9. nodarbības shēmas,
+shēmas bildes, savienojumu saraksta, simulācijas rezultātu failus.
+Repozitorija saknes direktorijas README.md failu papildināt ar 9. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+10.-11. nodarbība
+Piereģistrēties overleaf.com.
+Izveidot RTR108 projektu.
+Izveidotājā RTR108 projektā pa soļiem aprakstīt 9. nodarbības darbības -
+shēmas zīmēšanu, shēmas savienojumu saraksta iegūšanu, shēmas
+simulācijas rezultātu iegūšanu; aprakstā izmatot 9. nodarbības failu
+saturu un bildes; aprakstam obligāti jāsatur sekojoši elementi -
+virsraksts(i), saraksts(i), formula(s), tabula(s), bilde(s).
+(Formatēšanas paņēmieni -
+https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1).)
+Studiju kursa repozitorija saknes direktorijā izveidot P10_P11_LaTeX
+direktoriju.
+Izveidotājā P10_P11_LaTeX direktorijā augšupielādēt 10. nodarbības un
+11. nodarbības izveidoto LaTeX projektu un projekta kompilēšanas rezultāta
+voltage_divider.pdf failu.
+Repozitorija saknes direktorijas README.md failu papildināt ar 10. nodarbības
+un 11. nodarbības tēmas aprakstu, aprakstu sakārtot.
+
+12. nodarbība
+10. nodarbības un 11. nodarbības pdf faila saturu (apraksts par 9.
+nodarbības darbībām - shēmas zīmēšanu, shēmas savienojumu saraksta
+iegūšanu, shēmas simulācijas rezultātu iegūšanu) realizēt, izmantojot
+hiperteksta iezīmēšanas valodu (HTML) un stila lapas kaskadēšanas valodu
+(CSS); aprakstam obligāti jāsatur sekojoši elementi - virsraksts(i),
+saraksts(i), formula(s), tabula(s), bilde(s):
+▶apraksta HTML faila nosaukums - voltage_divider.html
+▶apraksta CSS faila nosaukums - voltage_divider.css (obligāti jābūt
+izmantotam vismaz pa vienai reizei - inline, internal, external CSS)
+(Formatēšanas paņēmieni - https://www.w3schools.com/html/ un
+https://www.w3schools.com/css/.)
+Studiju kursa repozitorija saknes direktorijā izveidot P12_HTML_and_CSS
+direktoriju.
+Izveidotājā P12_HTML_and_CSS direktorijā augšupielādēt 12. nodarbības
+HTML un CSS failus.
+Repozitorija saknes direktorijas README.md failu papildināt ar 12. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+13. nodarbība
+Atrisināt 67 JavaScript uzdevumus šeit -
+https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1,
+gala rezultātu bildi saglabāt ar nosaukumu
+JS_exercises_from_w3schools_solved.png.
+Studiju kursa repozitorija saknes direktorijā izveidot P13_JavaScript
+direktoriju.
+Izveidotājā P13_JavaScript direktorijā augšupielādēt failu ar 13.
+nodarbības JavaScript uzdevumu atrisinājumu gala rezultāta bildi.
+Repozitorija saknes direktorijas README.md failu papildināt ar 13. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+14. nodarbība
+Python'ā, Ipython'ā vai IDLE'ā izmēģināt SimpleHTTPServer (vai
+http.server) moduli.
+Par moduļa darbību pārliecināties pārlūkprogrammā.
+Ar tunelēšanas rīku ngrok īslaicīgi padarīt iestartēto servisu pieejamu
+pasaulei.
+Par servisa pieejamību pasaulei pārliecināties pārlūkprogrammā.
+Studiju kursa repozitorija saknes direktorijā izveidot P14_web_service
+direktoriju.
+Repozitorija P14_web_service direktorijā izveidot README.md failu.
+Izveidoto README.md failu papildināt ar 14. nodarbības izmēģinājumu
+aprakstu, obligāti ir jāpievieno bildes ar pārlūkprogrammas izskatu,
+pārbaudot servera darbību lokāli un globāli.
+Repozitorija saknes direktorijas README.md failu papildināt ar 14. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+15. nodarbība
+Izmēģināt vienu no šī brīža aktuālajiem framework piemēriem:
+▶https://angular.io/
+▶https://expressjs.com/
+▶vai citu līdzvērtīgu piemēru
+Studiju kursa repozitorija saknes direktorijā izveidot P15_frameworks
+direktoriju.
+Repozitorija P15_frameworks direktorijā izveidot README.md failu.
+Izveidoto README.md failu papildināt ar 15. nodarbības izmēģinājumu
+aprakstu, obligāti ir jāpievieno bildes ar pārlūkprogrammas izskatu,
+pārbaudot servera darbību lokāli un globāli.
+Repozitorija saknes direktorijas README.md failu papildināt ar 15. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+16. nodarbība
+Izmantojot savu Google lietotāju, pieslēdzieties vizago.lv.
+Pievienojieties RTR-108 kursam.
+Kursā izveidojiet vienu (interesantu) uzdevumu.
+Studiju kursa repozitorija saknes direktorijā izveidot P16_PrairieLearn
+direktoriju.
+Repozitorija P16_PrairieLearn direktorijā izveidot README.md failu.
+Izveidoto README.md failu papildināt ar 16. nodarbības uzdevuma veidošanas
+aprakstu.
+Repozitorija saknes direktorijas README.md failu papildināt ar 16. nodarbības
+tēmas aprakstu, aprakstu sakārtot.
+
+
+Gala projekts.
+Izstrādāt un aprakstīt savu web-servisu sprieguma dalītāja aprēķiniem.
+
+
+Kā vienmēr, ja ir jautājumi, rakstiet, apspriedīsim.
+
+Ar cieņu,
+lektore Tatjana Solovjova
