@@ -5,10 +5,10 @@ def computepay(h,r):
         samaksa = h*r
     return samaksa
 
-hrs = input("Enter Hours: ")
+hrs = input("Enter Hours:")
 h = float(hrs)
 
-pph = input("Hourly rate: ")
+pph = input("Hourly rate:")
 r = float(pph)
 
 p = computepay(h,r)
