@@ -88,9 +88,9 @@ izmantojot math ar **2:  0.9742215979209138
 
 Izmantojot series summu: 
 
-Rinda nr.499. | X=3 | a=7.3485e-1989 | SUM=0.97422 | 
+Rinda nr.499. | X=3 | a=0.00000e+00 | SUM=0.97422 | 
 
-Rinda nr.500. | X=3 | a=-1.2358e-2003 | SUM=0.97422 | 
+Rinda nr.500. | X=3 | a=-0.00000e+00 | SUM=0.97422 | 
 
 
 Rekurences reizinatajs:
